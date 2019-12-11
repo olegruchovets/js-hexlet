@@ -1,2 +1,3 @@
 # js-hexlet
-my hexlet practice
+my hexlet practice and other js exercises!!!
+this is one more change
